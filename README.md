@@ -17,10 +17,10 @@ This project aims to equip BoomBikes with a data-driven understanding of the dem
 
 
 ## Table of Contents
-* Introduction
+### Introduction
 In the wake of the ongoing COVID-19 pandemic, BoomBikes, a prominent bike-sharing service provider in the United States, has faced significant revenue challenges. As the company looks toward a post-pandemic recovery, it seeks to understand the intricacies of the bike-sharing market and the factors that influence demand. This project, "Predicting Bike Demand for BoomBikes", is a data-driven initiative aimed at building a predictive model that will enable BoomBikes to anticipate and respond to the evolving demands of customers effectively. By analyzing a wealth of data, this project endeavors to unlock valuable insights and guide BoomBikes in crafting a successful and adaptive business strategy for the future.
 
-* Technologies Used
+### Technologies Used
 - Data Preprocessing
 - Exploratory Data Analysis (EDA)
 - Feature Selection
@@ -29,13 +29,13 @@ In the wake of the ongoing COVID-19 pandemic, BoomBikes, a prominent bike-sharin
 - Model Training
 - Model Evaluation
 
-* Conclusion
+### Conclusion
 The final results of the model's performance indicate a strong predictive capability:
 
-Train R^2: 0.838
-Train Adjusted R^2: 0.835
-Test R^2: 0.809
-Test Adjusted R^2: 0.799
+- Train R^2: 0.838
+- Train Adjusted R^2: 0.835
+- Test R^2: 0.809
+- Test Adjusted R^2: 0.799
 
 An R-squared value of 0.809-0.838 suggests that the model explains a substantial portion of the variance in the target variable, which is the demand for shared bikes. The adjusted R-squared values are also very close to the R-squared values, indicating that the model is not overfitted. This is a positive sign, as it suggests that the model is performing well both on the training data and the test data.
 
@@ -43,17 +43,17 @@ Furthermore, the similar performance on the training and test datasets indicates
 
 These results are promising and imply that the model can be a valuable tool for BoomBikes in understanding and predicting demand dynamics, which can guide business decisions and strategies effectively.
 
-* Acknowledgements
+### Acknowledgements
 Credit to Data Sources (`day.csv`)
 Project mentor - `Akashdeep Makkar`
 
 
-## Technologies Used
+### Technologies Used
 - matplotlib
 - pandas
 - seaborn
 - sklearn
 - statsmodel
 
-## Contact
+### Contact
 Created by [@vikaaas-99] - feel free to contact me!
