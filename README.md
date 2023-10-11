@@ -17,6 +17,7 @@ This project aims to equip BoomBikes with a data-driven understanding of the dem
 
 
 ## Table of Contents
+
 ### Introduction
 In the wake of the ongoing COVID-19 pandemic, BoomBikes, a prominent bike-sharing service provider in the United States, has faced significant revenue challenges. As the company looks toward a post-pandemic recovery, it seeks to understand the intricacies of the bike-sharing market and the factors that influence demand. This project, "Predicting Bike Demand for BoomBikes", is a data-driven initiative aimed at building a predictive model that will enable BoomBikes to anticipate and respond to the evolving demands of customers effectively. By analyzing a wealth of data, this project endeavors to unlock valuable insights and guide BoomBikes in crafting a successful and adaptive business strategy for the future.
 
@@ -44,8 +45,8 @@ Furthermore, the similar performance on the training and test datasets indicates
 These results are promising and imply that the model can be a valuable tool for BoomBikes in understanding and predicting demand dynamics, which can guide business decisions and strategies effectively.
 
 ### Acknowledgements
-Credit to Data Sources (`day.csv`)
-Project mentor - `Akashdeep Makkar`
+- Credit to Data Sources (`day.csv`)
+- Project mentor - `Akashdeep Makkar`
 
 
 ### Technologies Used
